@@ -1,1 +1,2 @@
-#merde nicouille grosse couille
+# Holberton 
+Ce script affiche le chemin absolu du repertoire de travail actuel
