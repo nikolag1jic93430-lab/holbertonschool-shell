@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello
+[ -f "hello" ] && chown vincent hello
